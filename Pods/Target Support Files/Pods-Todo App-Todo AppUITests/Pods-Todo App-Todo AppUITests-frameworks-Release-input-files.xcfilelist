@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Todo App-Todo AppUITests/Pods-Todo App-Todo AppUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
+${BUILT_PRODUCTS_DIR}/SQLite.swift/SQLite.framework
